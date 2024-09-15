@@ -1,1 +1,1 @@
-# dino_schisto
+# DINOv2 for semantic segmentation of schistocites.
